@@ -1,0 +1,23 @@
+t-test
+'https://raw.githubusercontent.com/ADPclass/ADP_book_ver01/main/data/cats.csv'
+
+
+서비스 이탈 추측, 종속변수: Exited
+x_train = pd.read_csv("https://raw.githubusercontent.com/Datamanim/datarepo/main/churnk/X_train.csv")
+y_train = pd.read_csv("https://raw.githubusercontent.com/Datamanim/datarepo/main/churnk/y_train.csv")
+x_test= pd.read_csv("https://raw.githubusercontent.com/Datamanim/datarepo/main/churnk/X_test.csv")
+
+Regression, 학생 성적 예측, 종속변수: G3
+x_train = pd.read_csv("https://raw.githubusercontent.com/Datamanim/datarepo/main/studentscore/X_train.csv")
+y_train = pd.read_csv("https://raw.githubusercontent.com/Datamanim/datarepo/main/studentscore/y_train.csv")
+x_test= pd.read_csv("https://raw.githubusercontent.com/Datamanim/datarepo/main/studentscore/X_test.csv")
+
+책 regression 데이터
+'https://raw.githubusercontent.com/ADPclass/ADP_book_ver01/main/data/kc_house_data.csv'
+
+책 Multiple regression 데이터
+'https://raw.githubusercontent.com/ADPclass/ADP_book_ver01/main/data/Cars93.csv'
+
+
+책 Logistic regression titanic
+'https://raw.githubusercontent.com/ADPclass/ADP_book_ver01/main/data/titanic.csv'
