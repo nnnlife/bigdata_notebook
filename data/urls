@@ -1,5 +1,4 @@
-t-test
-'https://raw.githubusercontent.com/ADPclass/ADP_book_ver01/main/data/cats.csv'
+
 
 
 서비스 이탈 추측, 종속변수: Exited
@@ -21,3 +20,13 @@ x_test= pd.read_csv("https://raw.githubusercontent.com/Datamanim/datarepo/main/s
 
 책 Logistic regression titanic
 'https://raw.githubusercontent.com/ADPclass/ADP_book_ver01/main/data/titanic.csv'
+
+
+책 t-test
+'https://raw.githubusercontent.com/ADPclass/ADP_book_ver01/main/data/cats.csv'
+
+책 ANOVA
+'https://raw.githubusercontent.com/ADPclass/ADP_book_ver01/main/data/iris.csv'
+
+'https://raw.githubusercontent.com/ADPclass/ADP_book_ver01/main/data/mtcars.csv'
+'https://raw.githubusercontent.com/ADPclass/ADP_book_ver01/main/data/kc_house_data.csv'
